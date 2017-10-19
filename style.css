@@ -6,13 +6,32 @@
     position: relative;
     bottom:50px;
     top:50px;
+
+
 }
 
 
-p{
+.coder2 {
+	width: 200px;
+	height: 200px;
+    float: left;
+	margin: 10px;
+    position: relative;
+    bottom:50px;
+    top: 100px;
+
+ }
+
+div.coder p, div.coder2 p{
 	color: #FFF;
 	font-family: 'Sanchez', serif;
 	position: absolute;
+	bottom: 15px;
+	text-align: right;
+	margin-right: 10px;
+	font-size: 20px
+
+
 }
 
 h1 {
