@@ -1,0 +1,20 @@
+.coder{
+	width: 200px;
+	height: 200px;
+    float: left;
+    margin: 10px;
+    position: relative;
+    bottom:50px;
+    top:50px;
+}
+
+
+p{
+	color: #FFF;
+	font-family: 'Sanchez', serif;
+	position: absolute;
+}
+
+h1 {
+	font-family: 'Sanchez', serif;
+}
